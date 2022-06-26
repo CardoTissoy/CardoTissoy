@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CardoTissoy
-- 🌱 I’m currently learning currently learning JavaScript, Python3, MySql. I would be much willing to learn more on programming through collaboration on some interesting projects within my capability and skills. Thank you and keep safe All!
+- 🌱 I’m a Associate Software Engineer at Accenture Philippines, would be glad to collaborate for future projects. Thank you very much!
 
 <!---
 CardoTissoy/CardoTissoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
